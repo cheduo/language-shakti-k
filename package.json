@@ -1,5 +1,5 @@
 {
-  "name": "language-kdb-q",
+  "name": "language-shakti-k",
   "main": "./lib/shakti-k",
   "version": "0.1.0",
   "description": "Language support for K languages of Shakti",
